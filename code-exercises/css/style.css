@@ -7,7 +7,7 @@
   background-size: cover;
   height: 700px;
   margin: 0 auto;
-  width:50%;
+  width: 100%;
 }
 
 h1 {
@@ -24,7 +24,7 @@ h1 {
   color: LightGray;
 }
 
-button {
+.button {
   background-color:#14A171;
   border: none;
   color:white;
