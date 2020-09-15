@@ -2,6 +2,33 @@
 
 }
 
+.container {
+  background-image: ;
+  background-size: cover;
+  height: 700px;
+  margin: 0 auto;
+  width:50%;
+}
+
 h1 {
 
+}
+
+.padding-hover:hover {
+  background-color:LightSalmon;
+  color:white;
+  text-decoration:underline;
+}
+
+.visited-gray:visited {
+  color: LightGray;
+}
+
+button {
+  background-color:#14A171;
+  border: none;
+  color:white;
+  font-family:Arial, sans-serif;
+  text-transform: uppercase;
+  padding: 1em 2em 1em 2em;
 }
